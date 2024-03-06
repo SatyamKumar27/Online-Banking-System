@@ -36,7 +36,6 @@ SQL (Structured Query Language):SQL is used to manage and manipulate the databas
 
 By  implementing these client-side and server-side components, an Online Banking Management System can provide a secure, responsive, and user-friendly experience for customers while ensuring the integrity and confidentiality of financial transactions.
 
-
 How to setup this project
 
 Step 1st. Download xampp
@@ -45,9 +44,7 @@ Step 2nd. Text editor notepad++ or Sublime
 
 Step 3rd. Download the zip file/ Download winrar
 
-Step 4th. Extract the file and copy “banking”
-
-” folder
+Step 4th. Extract the file and copy “online banking system” folder
 
 Step 5th. Paste inside root directory/ where you install xampp 
 
@@ -60,3 +57,4 @@ Step 8th. Import banking_db.sql file given inside the zip package in SQL file fo
 Step 9th. Run the script http://localhost/ banking
 
 Step 10th. Password: username:admin / password :admin123
+

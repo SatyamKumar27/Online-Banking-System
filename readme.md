@@ -32,22 +32,18 @@ How to setup this project
 
 Step 1st. Download xampp
 
-Step 2nd. Text editor notepad++ or Sublime
+Step 2nd. Download the zip file/ Download winrar
 
-Step 3rd. Download the zip file/ Download winrar
+Step 3rd. Extract the file and copy “online banking system” folder
 
-Step 4th. Extract the file and copy “online banking system” folder
+Step 4th. Paste inside root directory/ where you install xampp 
 
-Step 5th. Paste inside root directory/ where you install xampp 
+Step 5th. Open PHPMyAdmin
 
-Step 6th. Open PHPMyAdmin http://localhost/phpmyadmin
+Step 6th. Create database name banking_db
 
-Step 7th. Create database name banking_db
+Step 7th. Import banking_db.sql file given inside the zip package in SQL file folder
 
-Step 8th. Import banking_db.sql file given inside the zip package in SQL file folder
-
-Step 9th. Run the script http://localhost/ banking
-
-Step 10th. Password: username:admin / password :admin123
+Step 8th. Password: username:admin / password :admin123
 
 

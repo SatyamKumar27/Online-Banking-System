@@ -2,7 +2,7 @@ Language Used:      PHP
 
 Database Used:      My SQL
 
-Design Interface:   Bootstrap JavaScript, HTML, CSS, JQuery,
+Design Interface:   JavaScript, HTML, CSS, JQuery,
 
 Browser:            Opera Mozilla Google Chrome IE8,
 

@@ -12,7 +12,7 @@ Building an Online Banking System involves several components, including the fro
 
 1. Frontend (HTML, CSS, JavaScript):HTML (Hypertext Markup Language) is used to structure the content of the web pages. It defines the layout of the user interface and includes elements like forms, buttons, tables, and input fields for user interaction.
 CSS (Cascading Style Sheets) is used to style and format the HTML elements. It ensures a visually appealing and consistent layout across different devices and browsers.
-JavaScript:
+JavaScript:JavaScript is used for client-side scripting. It handles user interactions, input validations, and updates the DOM (Document Object Model) dynamically without requiring a full page reload. It enhances the user experience by providing real-time feedback and responsiveness.
 
 2. Backend (PHP):PHP  (Hypertext Preprocessor) is a server-side scripting language that handles the logic and processing on the server. It interacts with the frontend, processes user requests, communicates with the database, and generates dynamic content to be sent back to the client.
 

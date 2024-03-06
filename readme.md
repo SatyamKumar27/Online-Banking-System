@@ -24,7 +24,8 @@ JavaScript:
 
 6. Transaction Handling:Implementing transactional operations securely is fundamental. This includes transferring funds between accounts, updating account balances, and maintaining a transaction history.
 
-7.Logging and Auditing:Keeping logs of user activities and transactions is crucial for auditing and troubleshooting. It helps in tracking changes, identifying issues, and ensuring accountability.
+7.Logging and Auditing:Keeping logs of user activities and transactions is crucial for auditing and 
+troubleshooting. It helps in tracking changes, identifying issues, and ensuring accountability.
 
 8. Testing:Comprehensive testing, including unit testing, integration testing, and security testing, is necessary to identify and fix bugs or vulnerabilities in the system.
 

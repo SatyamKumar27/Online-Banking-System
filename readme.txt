@@ -8,32 +8,6 @@ Browser:            Opera Mozilla Google Chrome IE8,
 
 Software:            WAMP/ XAMPP/ LAMP/MAMP
 
-
-How to setup this project
-
-Step 1st. Download xampp
-
-Step 2nd. Text editor notepad++ or Sublime
-
-Step 3rd. Download the zip file/ Download winrar
-
-Step 4th. Extract the file and copy “banking”
-
-” folder
-
-Step 5th. Paste inside root directory/ where you install xampp 
-
-Step 6th. Open PHPMyAdmin http://localhost/phpmyadmin
-
-Step 7th. Create database name banking_db
-
-Step 8th. Import banking_db.sql file given inside the zip package in SQL file folder
-
-Step 9th. Run the script http://localhost/ banking
-
-Step 10th. Password: username:admin / password :admin123
-
-
 Building an Online Banking System involves several components, including the frontend (HTML, CSS, JavaScript) for the user interface, and the backend (PHP, SQL) for server-side processing and database management. Below is an abstraction and explanation of the different layers and components involved in developing this system:
 
 1. Frontend (HTML, CSS, JavaScript):
@@ -61,3 +35,28 @@ SQL (Structured Query Language):SQL is used to manage and manipulate the databas
 8. Testing:Comprehensive testing, including unit testing, integration testing, and security testing, is necessary to identify and fix bugs or vulnerabilities in the system.
 
 By  implementing these client-side and server-side components, an Online Banking Management System can provide a secure, responsive, and user-friendly experience for customers while ensuring the integrity and confidentiality of financial transactions.
+
+
+How to setup this project
+
+Step 1st. Download xampp
+
+Step 2nd. Text editor notepad++ or Sublime
+
+Step 3rd. Download the zip file/ Download winrar
+
+Step 4th. Extract the file and copy “banking”
+
+” folder
+
+Step 5th. Paste inside root directory/ where you install xampp 
+
+Step 6th. Open PHPMyAdmin http://localhost/phpmyadmin
+
+Step 7th. Create database name banking_db
+
+Step 8th. Import banking_db.sql file given inside the zip package in SQL file folder
+
+Step 9th. Run the script http://localhost/ banking
+
+Step 10th. Password: username:admin / password :admin123

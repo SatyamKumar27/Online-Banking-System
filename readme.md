@@ -44,6 +44,6 @@ Step 6th. Create database name banking_db
 
 Step 7th. Import banking_db.sql file given inside the zip package in SQL file folder
 
-Step 8th. Username:admin /Password: :admin123
+Step 8th. Username:admin /Password: admin123
 
 

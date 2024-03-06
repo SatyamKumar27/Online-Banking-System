@@ -58,3 +58,7 @@ Step 9th. Run the script http://localhost/ banking
 
 Step 10th. Password: username:admin / password :admin123
 
+
+<img width="1018" alt="Screenshot 2024-03-06 at 9 28 18 PM" src="https://github.com/SatyamKumar27/Online-Banking-System/assets/147496093/e118e916-99b4-4cdc-82a6-75c5d47a5fe3">
+
+
